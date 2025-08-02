@@ -1,2 +1,2 @@
 # Matlab-project
-Some project using Matlab
+Some projects using Matlab
